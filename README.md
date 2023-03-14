@@ -54,4 +54,7 @@ aws configure
 
 ---
 
-<h1><center>[DESAFIO DynamoDB](/src/README.MD)</center></h1>
+### ✨ [DESAFIO DynamoDB](/src/)
+
+---
+
